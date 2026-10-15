@@ -4,10 +4,6 @@
 > get **grounded, cited answers** through Retrieval-Augmented Generation,
 > streaming chat, and tool-using agents.
 
-[![CI](https://github.com/Devilthelegend/Nexus-ai-/actions/workflows/ci.yml/badge.svg)](https://github.com/Devilthelegend/Nexus-ai-/actions/workflows/ci.yml)
-[![CD](https://github.com/Devilthelegend/Nexus-ai-/actions/workflows/cd.yml/badge.svg)](https://github.com/Devilthelegend/Nexus-ai-/actions/workflows/cd.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00)
