@@ -284,7 +284,3 @@ roadmap (none block local / demo use):
 - **Full technical documentation:** [`docs/PROJECT_DOCUMENTATION.md`](docs/PROJECT_DOCUMENTATION.md)
 - **Design & architecture:** `NexusAI_Project_Design_Document.docx`,
   `NexusAI_System_Architecture_Document_v1.docx`
-
-## 📄 License
-
-Released under the [MIT License](LICENSE) — © 2026 Pratik Jagzap.
